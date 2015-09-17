@@ -7,7 +7,7 @@
 
 A JavaScript app that allows two players to compete against each other. 
 
-## A live working version of this javascript app can be found and used here: ``
+## A live working version of this javascript app can be found and used here: `http://pig-dice-game.bitballoon.com`
 
 ## Tests
 
