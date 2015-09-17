@@ -1,7 +1,7 @@
 
 ![alt tag](https://github.com/imanmafi/pigDice/blob/master/img/readmegraphic2.png)
 
-![alt tag](https://github.com/imanmafi/pigDice/blob/master/img/readmegraphic.png)
+<!-- ![alt tag](https://github.com/imanmafi/pigDice/blob/master/img/readmegraphic.png) -->
 
 # StumpTown Bespoke PigDice Game in JavaScript
 
